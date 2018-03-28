@@ -1,4 +1,4 @@
-# Open a gallery by clicking on the image
+# Open a gallery by clicking on it's image
 
 ### Enema Express
 #### 2008
