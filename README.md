@@ -16,6 +16,10 @@
 #### March 2018
 [![Dzhim CMS](20180305-dzhim-cms/images/250x/bg-colored/red-black.png)](20180305-dzhim-cms/README.md)
 
+### Waving cat
+#### February 2018
+[![Waving cat](20180206-waving-cat/250x/waving.gif)](20180206-waving-cat/README.md)
+
 ### Keychain
 #### June 2010
 [![Keychain](20100616-keychain/250x/sesks_Rullo_20100616_4.jpg)](20100616-keychain/README.md)
